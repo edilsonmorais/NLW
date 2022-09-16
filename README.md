@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Projeto construído do envento NExt Level Week da Rocketset
+Projeto construído do envento Next Level Week da Rocketset
 
 🔗 [Clique aqui para acessar](https://edilsonmorais.github.io/nlw-esports-explorer/)
 
@@ -12,8 +12,8 @@ Projeto construído do envento NExt Level Week da Rocketset
 
 - HTML
 - CSS
--Git e Github
+- Git e Github
 
 ## ❤️ Contato
 
-edilsonmorais@gmail.com
+📧 edilsonmorais@gmail.com
