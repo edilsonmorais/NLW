@@ -10,8 +10,10 @@ ul {
 
 body {
     background-image: url(assets/bg.jpg);
+    background-image: url(assets/bg2.jpg);
+    /* background-size: 100% auto; */
+    background-size: cover;
     background-position: top center;
-    background-size: 100% auto;
     background-repeat: no-repeat;
     background-color: #121214;
 }
