@@ -100,12 +100,12 @@ section ul li:hover {
     transform: scale(1.1);
 }
 
-.games-list img {
+.films-list img {
     width: 90px;
     border-radius: 8px;
 }
 
-.channel-list img {
+.series-list img {
     border-radius: 50%;
     width: 90px;
     height: 90px;
